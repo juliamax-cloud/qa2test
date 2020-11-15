@@ -5,7 +5,7 @@ public class MyFirstTest {
     public void firsttest() {
         System.out.println("Hello corona!");
 
-        int sum = sumTwoDigits(20,45);
+        int sum = sumTwoDigits(20,50);
         System.out.println(sum);
         System.out.println(sumTwoDigits(9,13));
     }
